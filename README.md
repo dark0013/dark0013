@@ -6,7 +6,8 @@ Soy un desarrollador Full Stack con pasión por la tecnología y la creación de
 - 💻 **Lenguajes:** Java, JavaScript, PHP, HTML, CSS
 - 🔧 **Frameworks y Librerías:** jQuery, Spring Boot, Angular, React, Flutter, Nest 
 - 🗄️ **Bases de Datos:** MySQL, PostgreSQL, Oracle  
-- 🐳 **Herramientas:** Docker, Git  
+- 🐳 **Herramientas:** Docker, Git
+- 🗄️ **Arquitectura:** Hexagonal, Mvc  
 
 ## 💼 Experiencia Laboral  
 - 🏢 **MACRONEGOCIOS S.A** - *Programador Jr* 
